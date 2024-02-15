@@ -1,7 +1,7 @@
 {
-  "name": "HADES_BOT",
+  "name": "FENIX_HADES",
   "version": "1.0.0",
-  "description": "Subscribete a The HADES- Bot (≧▽≦)",
+  "description": "(≧▽≦)",
   "depecrated": false,
   "main": "index.js",
   "directories": {
@@ -24,7 +24,7 @@
   ],
   "homepage": "",
   "author": {
-    "name": "YOVANI"
+    "name": "FENIX"
   },
   "repository": {
     "type": "git",
